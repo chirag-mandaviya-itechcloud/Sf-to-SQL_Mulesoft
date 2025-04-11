@@ -43,6 +43,6 @@ local.properties
 # --------------- #
 target/
 .mule/
-.tooling*/
+.tooling/
 .DS_Store
 velocity.log
